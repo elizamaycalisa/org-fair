@@ -55,4 +55,5 @@ cms.json
 android/key.properties
 *.jks
 *.keystore
+key.properties
 
